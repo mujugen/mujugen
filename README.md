@@ -4,7 +4,7 @@ I like spending 5 hours automating a 5 minute task.
 
 ### 🛠️ Tech Stack
 
-* **Languages:** C#, JavaScript, Python, Java, SQL
+* **Languages:** C#, JavaScript, Python, Java, C++
 * **Frameworks:** .NET, React, Next.js, Tailwind CSS
 * **Cloud & Tools:** AWS, Azure, Git
 * **Databases:** SQL Server, MongoDB
