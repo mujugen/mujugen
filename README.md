@@ -1,4 +1,6 @@
-# Hi, I'm Christian 👋
+### Hi, I'm Christian 👋
+I like spending 5 hours on a 5 minute task.
+
 
 ### 🛠️ Tech Stack
 
