@@ -12,17 +12,21 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:**  
-  <img src="https://skillicons.dev/icons?i=cs,js,py,java,cpp" alt="Languages" />
+**Languages**  
+<br>
+<img src="https://skillicons.dev/icons?i=cs,js,py,java,cpp" alt="Languages" />
 
-* **Frameworks & Libraries:**  
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,tailwind" alt="Frameworks" />
+**Frameworks & Libraries**  
+<br>
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,tailwind" alt="Frameworks" />
 
-* **Cloud & Tools:**  
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" alt="Tools" />
+**Cloud & Tools**  
+<br>
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" alt="Tools" />
 
-* **Databases:**  
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" /> *(Note: For SQL Server, standard SQL isn't on skillicons, but you can swap/add as needed)*
+**Databases**  
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
 
 ---
 
