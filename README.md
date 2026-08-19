@@ -14,7 +14,7 @@
 
 **Languages**  
 <br>
-<img src="https://skillicons.dev/icons?i=cs,js,py,java,cpp" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,py,java,cpp" alt="Languages" />
 
 **Frameworks & Libraries**  
 <br>
@@ -22,21 +22,19 @@
 
 **Cloud & Tools**  
 <br>
-<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,linux" alt="Tools" />
 
 **Databases**  
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
 
 ---
 
 ### 📊 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mujugen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Christian's GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mujugen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujugen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="49%" alt="Christian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujugen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="49%" alt="Most Used Languages" />
 </p>
 
 ---
